@@ -1,2 +1,0 @@
-# Wechat
-Wechat Product
